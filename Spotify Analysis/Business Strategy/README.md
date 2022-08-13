@@ -1,6 +1,6 @@
 ## Business Strategies for 8Potify
 
-### Innovation 
+### Innovation  
 Objective: Like our slogan says, 8potify wants to dance to the rhythm of your heart. Nowadays, trending music apps in the market are still lacking the flexibility to provide customized playlists to users based on their feelings and emotions at the moment. We want to develop a music app that allows users to choose which songs to listen to based on their current moods. Our target customers will be music lovers who want to select songs randomly based on moods, and who are fond of exploring new ways of music streaming and media services.
 
 For the initial launch, we first ask the users to choose (or enter) their current mood and then ask them to select the level of their current mood in percentage. After that the app will generate a customized playlist for the user by leveraging machine-learning based algorithms, enabling users to enjoy new music and express emotions.
