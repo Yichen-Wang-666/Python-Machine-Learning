@@ -1,0 +1,2 @@
+## Project Overview:
+Our project’s primary focus is to help Yelp construct a dashboard that will analyze the performance of certain franchised restaurants listed on their website. The tool will be an available resource for businesses to determine what improvements they can make in their service to increase their user ratings. The dashboard will provide a low-performing store with a list of factors that existed during a period of time when a restaurant began receiving consistently low user ratings.
