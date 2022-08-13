@@ -42,6 +42,6 @@ We also build a front-end web app of our project, to use it, please refer to thi
 - key (All keys on octave encoded as values ranging from 0 to 11, starting on C as 0, C# as 1 and so on…)
 - artists (List of artists mentioned)
 - release_date (Date of release mostly in yyyy-mm-dd format, however precision of date may vary)
-- name (Name of the song)
+- name (Name of the song) 
 
 
