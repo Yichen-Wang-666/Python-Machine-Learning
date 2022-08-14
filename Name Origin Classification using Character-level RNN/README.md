@@ -6,3 +6,4 @@ An rnn-based model is developed to perform classification. The goal is threefold
 3. Write a function that takes as input a string, and outputs the name of the predicted class.
 
 #### Results shown:
+![image](https://user-images.githubusercontent.com/59845928/184556804-117f7e3e-66a2-4cbb-9b79-e61e21635229.png)
